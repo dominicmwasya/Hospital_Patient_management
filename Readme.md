@@ -88,8 +88,6 @@ Analyses monthly admission volumes across 2024 using window functions for runnin
 
 ##  Dashboard Screenshots
 
-> *Screenshots will be added once the Power BI dashboard is published.*
-
 | Page | Preview |
 |---|---|
 | One-page dashboard | `https://github.com/dominicmwasya/Hospital_Patient_management/blob/b4e0069e7d5eced00e3d361d9e6c758cd9bdd4ba/Hospital_Patient_Management.png` |
