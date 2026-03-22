@@ -92,62 +92,8 @@ Analyses monthly admission volumes across 2024 using window functions for runnin
 
 | Page | Preview |
 |---|---|
-| One-page dashboard | `screenshots/dashboard.png` |
+| One-page dashboard | `https://github.com/dominicmwasya/Hospital_Patient_management/blob/b4e0069e7d5eced00e3d361d9e6c758cd9bdd4ba/Hospital_Patient_Management.png` |
 
-To add your own screenshots:
-1. In Power BI Desktop go to **File → Export → Export to PDF** or take a snip of the canvas
-2. Save the image to a `/screenshots` folder in this repository
-3. Replace the placeholder paths above with the actual image paths
-
----
-
-##  How to Run This Project
-
-### 1. Set up the MySQL database
-```sql
--- Run the scripts in this order:
--- 1. setup.sql         → creates database and table, imports CSV
--- 2. cleaning.sql      → null audit, trimming, deduplication
--- 3. features.sql      → adds Length_of_Stay, Age_Group, Cost_Bucket columns
--- 4. analysis.sql      → all 5 analytical queries
-```
-
-### 2. Connect Power BI to MySQL
-1. Install **MySQL Connector/ODBC** from `dev.mysql.com/downloads/connector/odbc/`
-2. Open Power BI Desktop → **Get Data** → **ODBC**
-3. Select your DSN pointing to `hospital_db`
-4. Load the `patients` table
-
-### 3. Open the dashboard
-Open `Hospital_Dashboard.pbix` in Power BI Desktop. All measures and visuals are pre-built and will refresh automatically from your local MySQL connection.
-
----
-
-##  Repository Structure
-
-```
-hospital-patient-analysis/
-│
-├── data/
-│   └── hospital_patient_management_dataset.csv
-│
-├── sql/
-│   ├── setup.sql
-│   ├── cleaning.sql
-│   ├── features.sql
-│   └── analysis.sql
-│
-├── powerbi/
-│   └── Hospital_Dashboard.pbix
-│
-├── docs/
-│   ├── Problem_Statement.docx
-│   └── SQL_DAX_Documentation.pdf
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
 
 
 
