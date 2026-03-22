@@ -1,0 +1,501 @@
+Patient_ID,Patient_Name,Age,Gender,Department,Diagnosis,Doctor,Admission_Type,Admission_Date,Discharge_Date,Treatment_Cost,Payment_Method,Status
+P1000,Patient_0,36,Male,Oncology,Cancer,Dr. Johnson,Referral,2024-02-27,2024-02-28,691.98,Card,Transferred
+P1001,Patient_1,5,Male,Cardiology,Hypertension,Dr. Johnson,Emergency,2024-10-29,2024-11-05,2625.71,Insurance,Transferred
+P1002,Patient_2,54,Male,Orthopedics,Arthritis,Dr. Jones,Routine,2024-11-28,2024-12-07,4085.27,Insurance,Discharged
+P1003,Patient_3,36,Male,Oncology,Cancer,Dr. Williams,Emergency,2024-08-04,2024-08-10,645.18,Insurance,Admitted
+P1004,Patient_4,34,Male,Emergency,Severe Infection,Dr. Brown,Referral,2024-06-25,2024-07-05,799.17,Cash,Discharged
+P1005,Patient_5,47,Male,General Medicine,Infection,Dr. Smith,Emergency,2024-05-30,2024-06-09,3374.06,Cash,Discharged
+P1006,Patient_6,49,Female,Emergency,Accident Injury,Dr. Garcia,Routine,2024-04-29,2024-05-01,980.74,Cash,Discharged
+P1007,Patient_7,78,Male,Oncology,Leukemia,Dr. Garcia,Emergency,2024-05-16,2024-05-18,984.33,Cash,Admitted
+P1008,Patient_8,29,Female,Oncology,Cancer,Dr. Johnson,Emergency,2024-12-18,2024-12-27,4064.22,Cash,Admitted
+P1009,Patient_9,41,Male,Cardiology,Heart Failure,Dr. Brown,Routine,2024-04-18,2024-04-28,4446.48,Card,Admitted
+P1010,Patient_10,32,Female,Orthopedics,Back Pain,Dr. Jones,Routine,2024-05-15,2024-05-18,4509.55,Cash,Admitted
+P1011,Patient_11,64,Male,Orthopedics,Fracture,Dr. Smith,Emergency,2024-03-11,2024-03-20,3211.74,Card,Admitted
+P1012,Patient_12,49,Female,General Medicine,Infection,Dr. Williams,Referral,2024-02-02,2024-02-09,4331.74,Insurance,Transferred
+P1013,Patient_13,35,Female,Oncology,Cancer,Dr. Williams,Routine,2024-02-28,2024-03-08,959.16,Insurance,Transferred
+P1014,Patient_14,23,Male,Oncology,Leukemia,Dr. Williams,Referral,2024-05-14,2024-05-23,2636.78,Insurance,Discharged
+P1015,Patient_15,68,Male,Neurology,Epilepsy,Dr. Williams,Routine,2024-03-23,2024-04-01,293.49,Cash,Admitted
+P1016,Patient_16,73,Male,Orthopedics,Fracture,Dr. Garcia,Routine,2024-01-30,2024-02-03,4116.91,Card,Discharged
+P1017,Patient_17,71,Male,Orthopedics,Arthritis,Dr. Jones,Referral,2024-12-03,2024-12-11,2231.06,Insurance,Transferred
+P1018,Patient_18,40,Female,Emergency,Severe Infection,Dr. Garcia,Routine,2024-12-19,2024-12-23,2302.88,Card,Admitted
+P1019,Patient_19,9,Female,Cardiology,Hypertension,Dr. Jones,Referral,2024-05-06,2024-05-10,1304.55,Insurance,Discharged
+P1020,Patient_20,30,Male,Cardiology,Hypertension,Dr. Williams,Emergency,2024-12-28,2024-12-29,2667.95,Cash,Transferred
+P1021,Patient_21,17,Female,Pediatrics,Flu,Dr. Brown,Routine,2024-04-19,2024-04-28,1113.97,Insurance,Transferred
+P1022,Patient_22,53,Female,Pediatrics,Infection,Dr. Smith,Referral,2024-06-30,2024-07-07,3336.59,Card,Discharged
+P1023,Patient_23,14,Male,Cardiology,Hypertension,Dr. Johnson,Referral,2024-07-25,2024-07-31,2353.35,Cash,Discharged
+P1024,Patient_24,10,Female,Neurology,Epilepsy,Dr. Smith,Emergency,2024-08-24,2024-08-28,3330.3,Card,Discharged
+P1025,Patient_25,53,Female,Cardiology,Arrhythmia,Dr. Johnson,Routine,2024-05-01,2024-05-04,4531.73,Insurance,Admitted
+P1026,Patient_26,59,Female,Cardiology,Arrhythmia,Dr. Garcia,Referral,2024-07-18,2024-07-23,4978.03,Card,Transferred
+P1027,Patient_27,25,Female,Oncology,Cancer,Dr. Smith,Referral,2024-09-06,2024-09-09,3731.54,Insurance,Transferred
+P1028,Patient_28,75,Female,Neurology,Epilepsy,Dr. Jones,Emergency,2024-01-30,2024-01-31,473.02,Card,Discharged
+P1029,Patient_29,77,Male,Emergency,Severe Infection,Dr. Johnson,Routine,2024-04-05,2024-04-07,775.46,Card,Discharged
+P1030,Patient_30,80,Male,General Medicine,Flu,Dr. Garcia,Referral,2024-10-31,2024-11-01,2913.09,Cash,Admitted
+P1031,Patient_31,31,Female,Orthopedics,Arthritis,Dr. Johnson,Referral,2024-12-08,2024-12-14,3298.4,Cash,Admitted
+P1032,Patient_32,59,Male,Emergency,Trauma,Dr. Jones,Emergency,2024-02-07,2024-02-08,2628.25,Insurance,Admitted
+P1033,Patient_33,37,Male,Cardiology,Arrhythmia,Dr. Jones,Referral,2024-05-05,2024-05-11,1652.08,Card,Transferred
+P1034,Patient_34,39,Male,Cardiology,Hypertension,Dr. Williams,Emergency,2024-12-07,2024-12-16,4470.62,Card,Transferred
+P1035,Patient_35,78,Male,Orthopedics,Back Pain,Dr. Williams,Emergency,2024-05-19,2024-05-24,3499.99,Cash,Transferred
+P1036,Patient_36,12,Female,Pediatrics,Asthma,Dr. Smith,Emergency,2024-05-08,2024-05-09,1801.07,Insurance,Transferred
+P1037,Patient_37,71,Female,Neurology,Epilepsy,Dr. Smith,Emergency,2024-03-23,2024-03-31,561.17,Card,Discharged
+P1038,Patient_38,75,Male,General Medicine,Flu,Dr. Johnson,Emergency,2024-01-19,2024-01-25,1679.64,Insurance,Admitted
+P1039,Patient_39,86,Male,Orthopedics,Arthritis,Dr. Jones,Routine,2024-12-15,2024-12-19,4874.42,Card,Discharged
+P1040,Patient_40,53,Male,Orthopedics,Fracture,Dr. Garcia,Routine,2024-03-24,2024-03-27,3955.46,Cash,Transferred
+P1041,Patient_41,21,Male,Emergency,Accident Injury,Dr. Smith,Routine,2024-05-07,2024-05-12,1267.68,Cash,Admitted
+P1042,Patient_42,4,Male,Neurology,Stroke,Dr. Williams,Routine,2024-04-26,2024-04-30,4348.89,Cash,Admitted
+P1043,Patient_43,87,Female,Oncology,Cancer,Dr. Smith,Routine,2024-09-17,2024-09-24,1057.13,Cash,Discharged
+P1044,Patient_44,45,Female,Cardiology,Arrhythmia,Dr. Jones,Referral,2024-11-01,2024-11-08,755.1,Card,Discharged
+P1045,Patient_45,1,Male,Neurology,Stroke,Dr. Brown,Emergency,2024-01-23,2024-01-30,4754.6,Cash,Transferred
+P1046,Patient_46,39,Female,Neurology,Epilepsy,Dr. Brown,Routine,2024-12-05,2024-12-07,2131.52,Cash,Transferred
+P1047,Patient_47,86,Female,Orthopedics,Back Pain,Dr. Garcia,Emergency,2024-04-08,2024-04-15,3154.47,Cash,Admitted
+P1048,Patient_48,37,Male,General Medicine,Flu,Dr. Jones,Referral,2024-01-01,2024-01-06,3342.59,Cash,Admitted
+P1049,Patient_49,66,Female,Pediatrics,Infection,Dr. Johnson,Referral,2024-12-11,2024-12-15,607.02,Card,Transferred
+P1050,Patient_50,12,Male,Oncology,Leukemia,Dr. Williams,Emergency,2024-11-13,2024-11-19,4071.5,Insurance,Discharged
+P1051,Patient_51,79,Male,Cardiology,Arrhythmia,Dr. Brown,Referral,2024-05-05,2024-05-13,2963.22,Card,Transferred
+P1052,Patient_52,32,Male,Pediatrics,Infection,Dr. Garcia,Emergency,2024-09-10,2024-09-17,4484.77,Insurance,Admitted
+P1053,Patient_53,60,Male,Orthopedics,Back Pain,Dr. Johnson,Emergency,2024-03-31,2024-04-09,2391.02,Cash,Transferred
+P1054,Patient_54,41,Female,General Medicine,Infection,Dr. Garcia,Referral,2024-10-13,2024-10-23,2248.36,Card,Admitted
+P1055,Patient_55,34,Male,Orthopedics,Back Pain,Dr. Williams,Referral,2024-08-31,2024-09-08,2526.07,Insurance,Admitted
+P1056,Patient_56,31,Female,Pediatrics,Asthma,Dr. Williams,Referral,2024-02-09,2024-02-14,586.77,Insurance,Discharged
+P1057,Patient_57,28,Male,Pediatrics,Asthma,Dr. Brown,Routine,2024-12-21,2024-12-24,2804.53,Cash,Discharged
+P1058,Patient_58,75,Male,Orthopedics,Back Pain,Dr. Brown,Routine,2024-08-03,2024-08-10,228.3,Cash,Admitted
+P1059,Patient_59,69,Male,Emergency,Accident Injury,Dr. Johnson,Routine,2024-07-18,2024-07-25,2292.01,Insurance,Admitted
+P1060,Patient_60,22,Female,Neurology,Migraine,Dr. Jones,Referral,2024-12-08,2024-12-15,329.44,Cash,Transferred
+P1061,Patient_61,11,Female,General Medicine,Diabetes,Dr. Brown,Emergency,2024-12-05,2024-12-06,441.37,Cash,Admitted
+P1062,Patient_62,44,Female,Orthopedics,Arthritis,Dr. Brown,Routine,2024-08-20,2024-08-26,4207.57,Cash,Discharged
+P1063,Patient_63,45,Male,Oncology,Leukemia,Dr. Smith,Referral,2024-10-03,2024-10-04,393.24,Insurance,Discharged
+P1064,Patient_64,20,Male,Orthopedics,Fracture,Dr. Brown,Referral,2024-01-11,2024-01-21,749.07,Insurance,Admitted
+P1065,Patient_65,22,Male,Oncology,Cancer,Dr. Williams,Emergency,2024-05-11,2024-05-17,2977.69,Cash,Transferred
+P1066,Patient_66,26,Male,Oncology,Leukemia,Dr. Garcia,Referral,2024-07-11,2024-07-18,1365.68,Card,Admitted
+P1067,Patient_67,16,Male,Emergency,Accident Injury,Dr. Jones,Routine,2024-12-16,2024-12-26,3375.3,Insurance,Transferred
+P1068,Patient_68,54,Female,Oncology,Cancer,Dr. Brown,Routine,2024-06-23,2024-06-24,3250.81,Cash,Transferred
+P1069,Patient_69,67,Female,Orthopedics,Back Pain,Dr. Jones,Routine,2024-08-10,2024-08-13,2431.39,Card,Transferred
+P1070,Patient_70,12,Female,Neurology,Stroke,Dr. Johnson,Routine,2024-06-14,2024-06-18,2935.28,Card,Admitted
+P1071,Patient_71,42,Male,Neurology,Stroke,Dr. Johnson,Routine,2024-01-15,2024-01-23,4029.6,Cash,Admitted
+P1072,Patient_72,72,Male,General Medicine,Infection,Dr. Johnson,Emergency,2024-12-25,2024-12-30,1358.51,Cash,Admitted
+P1073,Patient_73,83,Female,General Medicine,Flu,Dr. Smith,Emergency,2024-05-03,2024-05-11,1612.33,Cash,Transferred
+P1074,Patient_74,48,Female,Orthopedics,Back Pain,Dr. Jones,Routine,2024-06-05,2024-06-15,2242.42,Card,Transferred
+P1075,Patient_75,35,Female,Neurology,Stroke,Dr. Johnson,Emergency,2024-06-29,2024-07-07,3662.16,Cash,Discharged
+P1076,Patient_76,25,Male,Oncology,Leukemia,Dr. Brown,Routine,2024-10-01,2024-10-04,3678.01,Card,Transferred
+P1077,Patient_77,38,Male,Neurology,Stroke,Dr. Johnson,Routine,2024-02-21,2024-02-25,267.91,Card,Discharged
+P1078,Patient_78,71,Female,Neurology,Epilepsy,Dr. Johnson,Referral,2024-01-24,2024-01-25,4368.61,Cash,Discharged
+P1079,Patient_79,37,Female,Emergency,Accident Injury,Dr. Brown,Routine,2024-01-07,2024-01-17,1084.95,Insurance,Admitted
+P1080,Patient_80,9,Female,Emergency,Accident Injury,Dr. Smith,Referral,2024-09-01,2024-09-03,3221.34,Insurance,Discharged
+P1081,Patient_81,11,Male,Orthopedics,Fracture,Dr. Jones,Routine,2024-10-15,2024-10-20,3110.32,Card,Discharged
+P1082,Patient_82,58,Female,Emergency,Accident Injury,Dr. Jones,Routine,2024-09-24,2024-10-01,1665.83,Card,Discharged
+P1083,Patient_83,81,Male,General Medicine,Flu,Dr. Garcia,Emergency,2024-02-20,2024-02-24,953.87,Insurance,Transferred
+P1084,Patient_84,53,Female,Cardiology,Heart Failure,Dr. Jones,Routine,2024-03-21,2024-03-22,1598.04,Insurance,Admitted
+P1085,Patient_85,10,Male,Oncology,Tumor,Dr. Garcia,Referral,2024-05-24,2024-06-01,3373.68,Insurance,Admitted
+P1086,Patient_86,83,Male,Cardiology,Arrhythmia,Dr. Johnson,Emergency,2024-10-05,2024-10-09,486.26,Cash,Transferred
+P1087,Patient_87,57,Male,Oncology,Tumor,Dr. Garcia,Routine,2024-10-18,2024-10-23,3558.72,Cash,Transferred
+P1088,Patient_88,11,Male,General Medicine,Flu,Dr. Garcia,Routine,2024-09-09,2024-09-17,3097.83,Insurance,Discharged
+P1089,Patient_89,76,Male,Orthopedics,Back Pain,Dr. Williams,Referral,2024-12-11,2024-12-21,393.11,Insurance,Admitted
+P1090,Patient_90,36,Male,General Medicine,Infection,Dr. Brown,Referral,2024-11-29,2024-12-07,4108.38,Insurance,Admitted
+P1091,Patient_91,42,Male,Neurology,Migraine,Dr. Williams,Routine,2024-07-28,2024-08-03,3529.63,Cash,Transferred
+P1092,Patient_92,59,Male,Pediatrics,Asthma,Dr. Williams,Routine,2024-10-08,2024-10-09,756.42,Cash,Transferred
+P1093,Patient_93,60,Female,Emergency,Trauma,Dr. Johnson,Referral,2024-01-01,2024-01-10,1936.54,Cash,Transferred
+P1094,Patient_94,35,Male,Pediatrics,Asthma,Dr. Brown,Referral,2024-01-27,2024-01-31,2526.62,Insurance,Transferred
+P1095,Patient_95,40,Male,General Medicine,Infection,Dr. Brown,Emergency,2024-05-02,2024-05-05,1278.56,Insurance,Admitted
+P1096,Patient_96,64,Female,Cardiology,Heart Failure,Dr. Garcia,Routine,2024-11-27,2024-11-30,2194.35,Cash,Admitted
+P1097,Patient_97,19,Female,Orthopedics,Fracture,Dr. Jones,Referral,2024-08-21,2024-08-30,3782.2,Insurance,Discharged
+P1098,Patient_98,65,Female,Neurology,Migraine,Dr. Williams,Referral,2024-07-31,2024-08-06,1633.07,Card,Transferred
+P1099,Patient_99,58,Female,Oncology,Tumor,Dr. Williams,Referral,2024-09-07,2024-09-10,3861.79,Cash,Admitted
+P1100,Patient_100,74,Female,Neurology,Migraine,Dr. Brown,Emergency,2024-04-06,2024-04-10,1727.25,Cash,Transferred
+P1101,Patient_101,85,Male,Emergency,Accident Injury,Dr. Smith,Emergency,2024-07-14,2024-07-21,2611.0,Card,Admitted
+P1102,Patient_102,13,Female,Emergency,Trauma,Dr. Garcia,Emergency,2024-02-21,2024-02-29,2167.9,Card,Discharged
+P1103,Patient_103,44,Female,Cardiology,Heart Failure,Dr. Smith,Routine,2024-08-28,2024-09-02,4291.24,Card,Admitted
+P1104,Patient_104,70,Male,Neurology,Epilepsy,Dr. Smith,Emergency,2024-11-16,2024-11-24,3229.57,Cash,Discharged
+P1105,Patient_105,13,Male,Oncology,Tumor,Dr. Johnson,Referral,2024-02-16,2024-02-23,1637.44,Insurance,Discharged
+P1106,Patient_106,46,Female,Neurology,Stroke,Dr. Johnson,Emergency,2024-01-29,2024-02-03,2749.6,Card,Transferred
+P1107,Patient_107,23,Male,Emergency,Severe Infection,Dr. Brown,Referral,2024-04-02,2024-04-05,3479.05,Cash,Transferred
+P1108,Patient_108,82,Female,Orthopedics,Arthritis,Dr. Williams,Referral,2024-04-28,2024-05-06,245.11,Cash,Admitted
+P1109,Patient_109,10,Female,Oncology,Tumor,Dr. Jones,Routine,2024-10-06,2024-10-09,3266.91,Cash,Transferred
+P1110,Patient_110,26,Female,Neurology,Stroke,Dr. Smith,Emergency,2024-08-21,2024-08-26,2030.55,Cash,Transferred
+P1111,Patient_111,3,Female,Neurology,Stroke,Dr. Smith,Referral,2024-12-24,2024-12-29,4352.32,Card,Discharged
+P1112,Patient_112,30,Female,General Medicine,Diabetes,Dr. Garcia,Emergency,2024-09-11,2024-09-16,3180.28,Card,Transferred
+P1113,Patient_113,81,Male,Emergency,Severe Infection,Dr. Garcia,Emergency,2024-12-03,2024-12-06,1682.88,Cash,Discharged
+P1114,Patient_114,12,Female,General Medicine,Flu,Dr. Garcia,Routine,2024-07-05,2024-07-08,1043.07,Insurance,Transferred
+P1115,Patient_115,35,Male,Neurology,Stroke,Dr. Brown,Routine,2024-09-28,2024-10-07,3783.48,Cash,Discharged
+P1116,Patient_116,29,Female,Pediatrics,Infection,Dr. Williams,Emergency,2024-02-08,2024-02-11,3995.27,Insurance,Admitted
+P1117,Patient_117,48,Female,General Medicine,Infection,Dr. Brown,Referral,2024-03-04,2024-03-12,4713.4,Insurance,Transferred
+P1118,Patient_118,80,Female,Orthopedics,Back Pain,Dr. Johnson,Referral,2024-08-29,2024-08-30,503.44,Cash,Transferred
+P1119,Patient_119,15,Male,Neurology,Migraine,Dr. Smith,Routine,2024-11-28,2024-12-05,4980.45,Insurance,Discharged
+P1120,Patient_120,50,Female,Orthopedics,Arthritis,Dr. Garcia,Referral,2024-10-02,2024-10-05,3543.12,Card,Admitted
+P1121,Patient_121,84,Male,General Medicine,Flu,Dr. Jones,Routine,2024-03-20,2024-03-27,4707.45,Cash,Discharged
+P1122,Patient_122,57,Female,Oncology,Cancer,Dr. Williams,Emergency,2024-07-08,2024-07-12,4908.45,Cash,Transferred
+P1123,Patient_123,51,Female,Oncology,Cancer,Dr. Smith,Routine,2024-07-02,2024-07-03,640.03,Insurance,Transferred
+P1124,Patient_124,7,Female,Oncology,Cancer,Dr. Johnson,Referral,2024-11-01,2024-11-02,1184.99,Card,Discharged
+P1125,Patient_125,43,Male,General Medicine,Infection,Dr. Smith,Routine,2024-04-20,2024-04-24,4320.35,Insurance,Discharged
+P1126,Patient_126,15,Male,General Medicine,Diabetes,Dr. Smith,Routine,2024-05-08,2024-05-11,3991.93,Insurance,Transferred
+P1127,Patient_127,34,Male,Neurology,Migraine,Dr. Garcia,Routine,2024-01-09,2024-01-12,2725.21,Card,Discharged
+P1128,Patient_128,66,Male,Pediatrics,Asthma,Dr. Jones,Emergency,2024-08-17,2024-08-23,4738.0,Insurance,Transferred
+P1129,Patient_129,39,Female,Emergency,Severe Infection,Dr. Smith,Emergency,2024-12-03,2024-12-12,4993.22,Cash,Admitted
+P1130,Patient_130,57,Male,Oncology,Cancer,Dr. Williams,Referral,2024-02-25,2024-03-04,912.0,Insurance,Admitted
+P1131,Patient_131,71,Female,General Medicine,Flu,Dr. Jones,Referral,2024-11-20,2024-11-30,1615.51,Card,Transferred
+P1132,Patient_132,84,Male,Pediatrics,Asthma,Dr. Brown,Emergency,2024-02-20,2024-02-22,2186.31,Cash,Admitted
+P1133,Patient_133,55,Female,Pediatrics,Infection,Dr. Williams,Routine,2024-02-18,2024-02-24,4777.24,Card,Admitted
+P1134,Patient_134,12,Female,Cardiology,Hypertension,Dr. Garcia,Referral,2024-02-16,2024-02-18,1988.7,Insurance,Transferred
+P1135,Patient_135,72,Female,Cardiology,Heart Failure,Dr. Smith,Routine,2024-10-27,2024-11-05,1897.27,Card,Admitted
+P1136,Patient_136,77,Female,Emergency,Accident Injury,Dr. Smith,Referral,2024-01-27,2024-02-01,2635.58,Insurance,Transferred
+P1137,Patient_137,45,Female,Pediatrics,Flu,Dr. Williams,Referral,2024-04-24,2024-04-26,1285.56,Cash,Transferred
+P1138,Patient_138,87,Male,Emergency,Severe Infection,Dr. Garcia,Referral,2024-11-14,2024-11-24,1483.75,Insurance,Admitted
+P1139,Patient_139,45,Male,Oncology,Cancer,Dr. Johnson,Referral,2024-06-07,2024-06-13,3355.25,Insurance,Discharged
+P1140,Patient_140,12,Male,Oncology,Tumor,Dr. Brown,Routine,2024-11-20,2024-11-21,1836.3,Cash,Admitted
+P1141,Patient_141,77,Male,Oncology,Cancer,Dr. Johnson,Emergency,2024-06-15,2024-06-25,3821.29,Insurance,Transferred
+P1142,Patient_142,85,Female,Cardiology,Arrhythmia,Dr. Jones,Routine,2024-05-19,2024-05-27,2188.08,Insurance,Transferred
+P1143,Patient_143,15,Female,Cardiology,Heart Failure,Dr. Garcia,Referral,2024-06-25,2024-07-02,2535.84,Card,Admitted
+P1144,Patient_144,77,Male,Cardiology,Hypertension,Dr. Johnson,Routine,2024-04-22,2024-04-29,4737.56,Insurance,Admitted
+P1145,Patient_145,1,Female,Neurology,Epilepsy,Dr. Brown,Emergency,2024-06-16,2024-06-18,820.09,Card,Transferred
+P1146,Patient_146,86,Female,Orthopedics,Fracture,Dr. Brown,Referral,2024-09-13,2024-09-22,403.05,Insurance,Admitted
+P1147,Patient_147,55,Female,Cardiology,Heart Failure,Dr. Garcia,Routine,2024-06-09,2024-06-19,1589.67,Cash,Discharged
+P1148,Patient_148,59,Female,Neurology,Migraine,Dr. Brown,Emergency,2024-03-28,2024-04-07,1367.92,Card,Admitted
+P1149,Patient_149,40,Female,General Medicine,Diabetes,Dr. Williams,Emergency,2024-02-10,2024-02-17,566.62,Card,Discharged
+P1150,Patient_150,45,Female,General Medicine,Infection,Dr. Garcia,Emergency,2024-09-18,2024-09-22,1334.09,Insurance,Admitted
+P1151,Patient_151,20,Male,Orthopedics,Fracture,Dr. Garcia,Routine,2024-03-29,2024-04-08,2426.97,Card,Transferred
+P1152,Patient_152,83,Female,Pediatrics,Infection,Dr. Williams,Emergency,2024-12-14,2024-12-24,2310.86,Cash,Admitted
+P1153,Patient_153,76,Male,Oncology,Tumor,Dr. Jones,Emergency,2024-06-04,2024-06-09,1689.96,Cash,Discharged
+P1154,Patient_154,10,Male,Cardiology,Heart Failure,Dr. Jones,Referral,2024-07-07,2024-07-12,2045.52,Card,Transferred
+P1155,Patient_155,74,Male,Emergency,Accident Injury,Dr. Jones,Routine,2024-01-22,2024-01-30,2606.56,Insurance,Admitted
+P1156,Patient_156,65,Male,Cardiology,Hypertension,Dr. Johnson,Referral,2024-06-24,2024-06-26,2301.24,Cash,Transferred
+P1157,Patient_157,47,Female,General Medicine,Flu,Dr. Brown,Routine,2024-11-08,2024-11-11,3917.43,Card,Transferred
+P1158,Patient_158,9,Female,Cardiology,Hypertension,Dr. Jones,Referral,2024-11-19,2024-11-25,2055.51,Cash,Transferred
+P1159,Patient_159,20,Female,Emergency,Trauma,Dr. Jones,Referral,2024-12-02,2024-12-12,878.86,Cash,Admitted
+P1160,Patient_160,17,Male,Oncology,Tumor,Dr. Jones,Routine,2024-12-23,2024-12-30,3288.77,Cash,Discharged
+P1161,Patient_161,12,Female,Oncology,Leukemia,Dr. Williams,Emergency,2024-12-25,2025-01-03,1940.47,Insurance,Discharged
+P1162,Patient_162,29,Male,Neurology,Migraine,Dr. Smith,Routine,2024-09-05,2024-09-09,4253.26,Insurance,Transferred
+P1163,Patient_163,5,Female,Emergency,Severe Infection,Dr. Johnson,Referral,2024-10-03,2024-10-12,2008.26,Insurance,Discharged
+P1164,Patient_164,22,Female,Emergency,Trauma,Dr. Brown,Routine,2024-12-20,2024-12-30,3446.54,Insurance,Admitted
+P1165,Patient_165,30,Male,General Medicine,Flu,Dr. Brown,Emergency,2024-05-25,2024-06-02,1965.64,Card,Admitted
+P1166,Patient_166,65,Female,Pediatrics,Flu,Dr. Johnson,Referral,2024-05-24,2024-05-31,864.31,Cash,Discharged
+P1167,Patient_167,71,Male,Oncology,Leukemia,Dr. Jones,Emergency,2024-09-03,2024-09-09,1568.3,Insurance,Admitted
+P1168,Patient_168,56,Male,Pediatrics,Flu,Dr. Brown,Routine,2024-09-19,2024-09-22,4666.27,Cash,Discharged
+P1169,Patient_169,31,Female,Pediatrics,Flu,Dr. Williams,Emergency,2024-09-14,2024-09-20,335.3,Insurance,Transferred
+P1170,Patient_170,18,Male,Oncology,Tumor,Dr. Brown,Referral,2024-06-20,2024-06-23,4189.33,Card,Admitted
+P1171,Patient_171,11,Male,Pediatrics,Asthma,Dr. Johnson,Emergency,2024-11-11,2024-11-12,2834.26,Card,Transferred
+P1172,Patient_172,37,Male,General Medicine,Flu,Dr. Smith,Emergency,2024-08-04,2024-08-06,1344.51,Card,Transferred
+P1173,Patient_173,64,Male,Pediatrics,Infection,Dr. Jones,Referral,2024-02-02,2024-02-04,1361.3,Insurance,Admitted
+P1174,Patient_174,46,Male,Pediatrics,Infection,Dr. Brown,Emergency,2024-01-01,2024-01-11,3388.98,Insurance,Transferred
+P1175,Patient_175,70,Male,Neurology,Stroke,Dr. Brown,Emergency,2024-02-04,2024-02-13,3251.22,Cash,Admitted
+P1176,Patient_176,9,Female,Oncology,Cancer,Dr. Garcia,Referral,2024-01-09,2024-01-15,3215.63,Card,Transferred
+P1177,Patient_177,6,Female,Emergency,Severe Infection,Dr. Williams,Referral,2024-06-19,2024-06-22,1040.43,Card,Admitted
+P1178,Patient_178,18,Male,Oncology,Leukemia,Dr. Brown,Emergency,2024-09-02,2024-09-05,1608.52,Insurance,Discharged
+P1179,Patient_179,66,Female,Cardiology,Heart Failure,Dr. Brown,Routine,2024-06-10,2024-06-15,375.78,Card,Discharged
+P1180,Patient_180,84,Female,Neurology,Stroke,Dr. Smith,Routine,2024-07-01,2024-07-02,2297.37,Cash,Transferred
+P1181,Patient_181,24,Female,Pediatrics,Infection,Dr. Brown,Routine,2024-07-16,2024-07-22,4636.69,Card,Admitted
+P1182,Patient_182,11,Female,Emergency,Severe Infection,Dr. Johnson,Referral,2024-02-12,2024-02-19,1610.08,Insurance,Discharged
+P1183,Patient_183,40,Female,Neurology,Epilepsy,Dr. Garcia,Routine,2024-12-04,2024-12-09,999.89,Cash,Admitted
+P1184,Patient_184,79,Female,Pediatrics,Asthma,Dr. Garcia,Emergency,2024-01-22,2024-01-28,560.2,Card,Admitted
+P1185,Patient_185,4,Male,Neurology,Epilepsy,Dr. Garcia,Routine,2024-09-19,2024-09-22,367.04,Insurance,Discharged
+P1186,Patient_186,47,Female,Emergency,Severe Infection,Dr. Smith,Referral,2024-11-26,2024-12-02,936.5,Cash,Admitted
+P1187,Patient_187,74,Male,Neurology,Epilepsy,Dr. Williams,Routine,2024-08-15,2024-08-17,1709.05,Cash,Discharged
+P1188,Patient_188,64,Female,Cardiology,Heart Failure,Dr. Smith,Routine,2024-01-14,2024-01-17,3919.83,Card,Admitted
+P1189,Patient_189,89,Female,Orthopedics,Fracture,Dr. Smith,Emergency,2024-11-09,2024-11-14,4293.57,Cash,Discharged
+P1190,Patient_190,88,Female,Oncology,Leukemia,Dr. Williams,Referral,2024-08-15,2024-08-17,511.71,Card,Admitted
+P1191,Patient_191,47,Male,Neurology,Migraine,Dr. Johnson,Emergency,2024-03-21,2024-03-24,1336.33,Cash,Discharged
+P1192,Patient_192,48,Female,Neurology,Epilepsy,Dr. Johnson,Referral,2024-10-10,2024-10-20,4444.38,Insurance,Admitted
+P1193,Patient_193,53,Female,Pediatrics,Infection,Dr. Smith,Emergency,2024-09-02,2024-09-11,4867.42,Card,Discharged
+P1194,Patient_194,45,Male,Pediatrics,Infection,Dr. Garcia,Referral,2024-08-26,2024-09-04,1073.42,Insurance,Admitted
+P1195,Patient_195,67,Male,General Medicine,Flu,Dr. Johnson,Emergency,2024-01-29,2024-01-31,1748.77,Card,Discharged
+P1196,Patient_196,11,Female,Neurology,Migraine,Dr. Garcia,Referral,2024-09-22,2024-09-27,1517.36,Card,Admitted
+P1197,Patient_197,65,Male,General Medicine,Infection,Dr. Jones,Emergency,2024-09-30,2024-10-02,1021.76,Card,Transferred
+P1198,Patient_198,6,Male,General Medicine,Diabetes,Dr. Smith,Referral,2024-06-21,2024-07-01,3900.91,Cash,Transferred
+P1199,Patient_199,80,Male,Orthopedics,Arthritis,Dr. Garcia,Referral,2024-10-19,2024-10-26,1590.42,Cash,Admitted
+P1200,Patient_200,39,Female,Orthopedics,Fracture,Dr. Garcia,Emergency,2024-12-16,2024-12-23,958.79,Cash,Admitted
+P1201,Patient_201,78,Male,Pediatrics,Asthma,Dr. Garcia,Routine,2024-04-14,2024-04-20,3724.16,Cash,Admitted
+P1202,Patient_202,72,Male,Orthopedics,Arthritis,Dr. Johnson,Routine,2024-07-08,2024-07-17,788.11,Cash,Discharged
+P1203,Patient_203,38,Female,Orthopedics,Back Pain,Dr. Brown,Emergency,2024-02-19,2024-02-20,4820.89,Insurance,Admitted
+P1204,Patient_204,21,Female,General Medicine,Infection,Dr. Brown,Routine,2024-06-09,2024-06-13,4419.56,Cash,Discharged
+P1205,Patient_205,59,Male,Cardiology,Hypertension,Dr. Jones,Routine,2024-07-20,2024-07-29,433.56,Cash,Admitted
+P1206,Patient_206,37,Male,General Medicine,Diabetes,Dr. Brown,Emergency,2024-11-30,2024-12-08,4435.79,Card,Admitted
+P1207,Patient_207,6,Female,Emergency,Trauma,Dr. Jones,Referral,2024-07-25,2024-07-31,1134.35,Card,Admitted
+P1208,Patient_208,58,Female,Cardiology,Heart Failure,Dr. Garcia,Referral,2024-07-16,2024-07-25,770.29,Insurance,Admitted
+P1209,Patient_209,47,Male,Neurology,Migraine,Dr. Jones,Referral,2024-06-22,2024-07-01,2126.66,Insurance,Discharged
+P1210,Patient_210,61,Female,Cardiology,Hypertension,Dr. Jones,Referral,2024-03-11,2024-03-17,870.95,Card,Admitted
+P1211,Patient_211,39,Female,Orthopedics,Back Pain,Dr. Jones,Referral,2024-07-20,2024-07-30,2551.26,Card,Admitted
+P1212,Patient_212,43,Male,Pediatrics,Asthma,Dr. Jones,Routine,2024-01-09,2024-01-15,4024.42,Card,Transferred
+P1213,Patient_213,61,Female,Oncology,Leukemia,Dr. Jones,Referral,2024-01-14,2024-01-24,1292.21,Insurance,Transferred
+P1214,Patient_214,81,Female,Pediatrics,Flu,Dr. Garcia,Emergency,2024-03-28,2024-04-06,351.54,Card,Discharged
+P1215,Patient_215,41,Female,Orthopedics,Fracture,Dr. Brown,Referral,2024-01-10,2024-01-18,1178.68,Card,Transferred
+P1216,Patient_216,67,Male,Pediatrics,Infection,Dr. Williams,Referral,2024-02-01,2024-02-04,2496.18,Cash,Admitted
+P1217,Patient_217,44,Female,Orthopedics,Back Pain,Dr. Garcia,Referral,2024-08-23,2024-09-01,3287.88,Card,Admitted
+P1218,Patient_218,32,Female,General Medicine,Infection,Dr. Williams,Emergency,2024-09-04,2024-09-08,4719.13,Cash,Admitted
+P1219,Patient_219,41,Female,Oncology,Tumor,Dr. Jones,Referral,2024-04-16,2024-04-24,1512.6,Insurance,Transferred
+P1220,Patient_220,51,Female,Oncology,Cancer,Dr. Williams,Emergency,2024-10-05,2024-10-12,1580.63,Card,Discharged
+P1221,Patient_221,62,Male,Neurology,Migraine,Dr. Jones,Routine,2024-08-14,2024-08-19,4678.51,Card,Admitted
+P1222,Patient_222,76,Male,Orthopedics,Fracture,Dr. Smith,Referral,2024-02-25,2024-03-06,4544.88,Insurance,Transferred
+P1223,Patient_223,53,Female,Orthopedics,Back Pain,Dr. Brown,Emergency,2024-01-27,2024-01-29,3469.72,Insurance,Discharged
+P1224,Patient_224,84,Female,General Medicine,Flu,Dr. Garcia,Emergency,2024-03-21,2024-03-28,3828.37,Cash,Admitted
+P1225,Patient_225,12,Male,Neurology,Epilepsy,Dr. Garcia,Referral,2024-11-26,2024-11-27,4281.6,Insurance,Discharged
+P1226,Patient_226,51,Female,Pediatrics,Flu,Dr. Garcia,Routine,2024-03-31,2024-04-01,4408.37,Insurance,Admitted
+P1227,Patient_227,43,Female,General Medicine,Flu,Dr. Garcia,Referral,2024-11-04,2024-11-06,2716.73,Insurance,Transferred
+P1228,Patient_228,15,Female,Pediatrics,Flu,Dr. Garcia,Routine,2024-05-19,2024-05-23,3311.77,Card,Discharged
+P1229,Patient_229,73,Male,Cardiology,Hypertension,Dr. Jones,Referral,2024-06-21,2024-06-26,4505.81,Cash,Transferred
+P1230,Patient_230,86,Male,Neurology,Migraine,Dr. Johnson,Routine,2024-02-14,2024-02-21,1753.29,Insurance,Discharged
+P1231,Patient_231,58,Female,Neurology,Stroke,Dr. Williams,Referral,2024-07-15,2024-07-19,3669.84,Insurance,Admitted
+P1232,Patient_232,8,Male,Oncology,Tumor,Dr. Williams,Emergency,2024-07-03,2024-07-07,2146.0,Card,Transferred
+P1233,Patient_233,82,Female,Emergency,Accident Injury,Dr. Jones,Emergency,2024-06-08,2024-06-10,1251.82,Insurance,Admitted
+P1234,Patient_234,48,Female,Orthopedics,Back Pain,Dr. Jones,Routine,2024-08-20,2024-08-30,3835.28,Card,Discharged
+P1235,Patient_235,11,Female,Emergency,Severe Infection,Dr. Garcia,Routine,2024-05-06,2024-05-16,574.89,Card,Discharged
+P1236,Patient_236,26,Male,Cardiology,Hypertension,Dr. Williams,Referral,2024-10-07,2024-10-16,2320.83,Card,Discharged
+P1237,Patient_237,12,Female,Oncology,Cancer,Dr. Brown,Emergency,2024-10-25,2024-11-02,2663.59,Cash,Transferred
+P1238,Patient_238,87,Female,Cardiology,Heart Failure,Dr. Smith,Routine,2024-10-13,2024-10-21,1421.39,Insurance,Transferred
+P1239,Patient_239,6,Female,Orthopedics,Arthritis,Dr. Garcia,Emergency,2024-10-23,2024-10-25,2797.58,Insurance,Discharged
+P1240,Patient_240,53,Male,Pediatrics,Flu,Dr. Garcia,Referral,2024-01-17,2024-01-22,3300.23,Cash,Admitted
+P1241,Patient_241,49,Male,Pediatrics,Infection,Dr. Garcia,Referral,2024-08-17,2024-08-24,838.35,Cash,Discharged
+P1242,Patient_242,68,Male,Orthopedics,Back Pain,Dr. Johnson,Emergency,2024-10-02,2024-10-09,3829.66,Cash,Admitted
+P1243,Patient_243,69,Female,Oncology,Cancer,Dr. Johnson,Routine,2024-10-05,2024-10-12,1861.57,Cash,Discharged
+P1244,Patient_244,85,Female,Oncology,Leukemia,Dr. Smith,Emergency,2024-02-27,2024-02-28,1189.19,Insurance,Transferred
+P1245,Patient_245,87,Male,Cardiology,Hypertension,Dr. Garcia,Emergency,2024-08-16,2024-08-26,2130.87,Insurance,Transferred
+P1246,Patient_246,65,Female,Orthopedics,Fracture,Dr. Garcia,Referral,2024-01-29,2024-02-01,1730.74,Card,Transferred
+P1247,Patient_247,39,Male,Emergency,Severe Infection,Dr. Jones,Emergency,2024-06-13,2024-06-17,2185.09,Cash,Discharged
+P1248,Patient_248,81,Female,General Medicine,Infection,Dr. Brown,Emergency,2024-10-29,2024-11-01,4866.99,Card,Transferred
+P1249,Patient_249,90,Female,Pediatrics,Asthma,Dr. Johnson,Routine,2024-09-25,2024-10-01,2007.01,Card,Admitted
+P1250,Patient_250,19,Female,Orthopedics,Fracture,Dr. Jones,Routine,2024-04-25,2024-04-30,4845.37,Card,Transferred
+P1251,Patient_251,33,Male,Orthopedics,Arthritis,Dr. Garcia,Emergency,2024-07-17,2024-07-21,4626.69,Cash,Discharged
+P1252,Patient_252,35,Female,General Medicine,Infection,Dr. Jones,Referral,2024-04-07,2024-04-08,389.83,Insurance,Discharged
+P1253,Patient_253,28,Female,Emergency,Trauma,Dr. Williams,Routine,2024-10-27,2024-11-05,4793.69,Insurance,Discharged
+P1254,Patient_254,32,Male,Orthopedics,Arthritis,Dr. Johnson,Referral,2024-03-01,2024-03-09,1743.75,Cash,Admitted
+P1255,Patient_255,40,Female,Pediatrics,Asthma,Dr. Jones,Routine,2024-09-30,2024-10-06,2436.82,Card,Admitted
+P1256,Patient_256,48,Female,Emergency,Accident Injury,Dr. Smith,Referral,2024-06-12,2024-06-16,4347.61,Card,Discharged
+P1257,Patient_257,75,Female,Cardiology,Arrhythmia,Dr. Johnson,Emergency,2024-05-13,2024-05-22,1783.35,Cash,Transferred
+P1258,Patient_258,71,Female,Emergency,Accident Injury,Dr. Brown,Referral,2024-05-05,2024-05-13,3280.13,Cash,Admitted
+P1259,Patient_259,18,Female,Orthopedics,Fracture,Dr. Jones,Referral,2024-06-29,2024-07-02,4794.74,Card,Discharged
+P1260,Patient_260,1,Female,Emergency,Trauma,Dr. Garcia,Emergency,2024-02-08,2024-02-09,526.25,Insurance,Discharged
+P1261,Patient_261,48,Male,Orthopedics,Back Pain,Dr. Garcia,Referral,2024-09-15,2024-09-23,4682.74,Cash,Transferred
+P1262,Patient_262,69,Female,Pediatrics,Flu,Dr. Smith,Referral,2024-01-09,2024-01-10,3666.53,Card,Admitted
+P1263,Patient_263,23,Male,Cardiology,Hypertension,Dr. Jones,Emergency,2024-09-14,2024-09-21,1356.65,Card,Transferred
+P1264,Patient_264,51,Male,Neurology,Stroke,Dr. Brown,Routine,2024-06-30,2024-07-05,2912.01,Card,Discharged
+P1265,Patient_265,84,Male,Neurology,Migraine,Dr. Brown,Routine,2024-12-16,2024-12-18,2010.41,Cash,Discharged
+P1266,Patient_266,11,Female,Oncology,Tumor,Dr. Garcia,Routine,2024-01-05,2024-01-08,2916.11,Insurance,Transferred
+P1267,Patient_267,89,Female,Cardiology,Arrhythmia,Dr. Smith,Emergency,2024-04-27,2024-05-01,3485.26,Cash,Transferred
+P1268,Patient_268,23,Female,General Medicine,Diabetes,Dr. Johnson,Referral,2024-12-02,2024-12-03,892.12,Card,Admitted
+P1269,Patient_269,73,Male,Cardiology,Heart Failure,Dr. Brown,Referral,2024-06-02,2024-06-05,4503.32,Cash,Admitted
+P1270,Patient_270,65,Female,Emergency,Trauma,Dr. Smith,Routine,2024-03-12,2024-03-14,1314.29,Insurance,Admitted
+P1271,Patient_271,51,Female,General Medicine,Diabetes,Dr. Garcia,Routine,2024-11-10,2024-11-20,3961.03,Cash,Admitted
+P1272,Patient_272,49,Female,Orthopedics,Fracture,Dr. Garcia,Referral,2024-07-01,2024-07-10,3371.23,Insurance,Transferred
+P1273,Patient_273,11,Female,Neurology,Migraine,Dr. Brown,Referral,2024-05-06,2024-05-08,3962.67,Insurance,Transferred
+P1274,Patient_274,14,Male,Pediatrics,Flu,Dr. Williams,Routine,2024-06-11,2024-06-17,1927.6,Cash,Discharged
+P1275,Patient_275,56,Female,Orthopedics,Back Pain,Dr. Jones,Referral,2024-02-14,2024-02-17,2158.61,Insurance,Discharged
+P1276,Patient_276,77,Female,Neurology,Stroke,Dr. Smith,Routine,2024-10-10,2024-10-12,2186.29,Insurance,Transferred
+P1277,Patient_277,67,Male,General Medicine,Infection,Dr. Brown,Emergency,2024-05-04,2024-05-14,866.43,Cash,Admitted
+P1278,Patient_278,22,Female,Pediatrics,Asthma,Dr. Brown,Routine,2024-03-15,2024-03-17,2524.31,Insurance,Admitted
+P1279,Patient_279,77,Male,Neurology,Stroke,Dr. Smith,Emergency,2024-05-06,2024-05-14,1662.36,Cash,Admitted
+P1280,Patient_280,43,Female,Emergency,Accident Injury,Dr. Brown,Referral,2024-11-13,2024-11-20,4876.28,Insurance,Admitted
+P1281,Patient_281,62,Female,Neurology,Migraine,Dr. Brown,Routine,2024-11-04,2024-11-08,1598.95,Card,Transferred
+P1282,Patient_282,42,Female,Pediatrics,Asthma,Dr. Brown,Routine,2024-10-21,2024-10-25,746.66,Card,Discharged
+P1283,Patient_283,88,Male,General Medicine,Infection,Dr. Brown,Referral,2024-10-06,2024-10-09,1206.31,Cash,Transferred
+P1284,Patient_284,18,Female,Cardiology,Hypertension,Dr. Williams,Referral,2024-07-28,2024-08-05,939.89,Cash,Admitted
+P1285,Patient_285,62,Female,Cardiology,Heart Failure,Dr. Jones,Referral,2024-08-17,2024-08-27,2207.84,Insurance,Admitted
+P1286,Patient_286,82,Male,Oncology,Cancer,Dr. Johnson,Referral,2024-10-01,2024-10-11,3390.53,Insurance,Transferred
+P1287,Patient_287,83,Female,General Medicine,Flu,Dr. Brown,Emergency,2024-01-23,2024-02-02,250.63,Cash,Discharged
+P1288,Patient_288,75,Male,General Medicine,Flu,Dr. Williams,Routine,2024-09-22,2024-10-01,2422.7,Card,Transferred
+P1289,Patient_289,45,Male,Oncology,Tumor,Dr. Smith,Routine,2024-09-13,2024-09-16,2196.68,Insurance,Discharged
+P1290,Patient_290,40,Female,Emergency,Accident Injury,Dr. Johnson,Referral,2024-03-13,2024-03-19,2518.04,Cash,Discharged
+P1291,Patient_291,41,Male,Pediatrics,Asthma,Dr. Smith,Referral,2024-12-22,2024-12-30,752.41,Cash,Transferred
+P1292,Patient_292,32,Male,Cardiology,Heart Failure,Dr. Johnson,Routine,2024-12-12,2024-12-15,2887.27,Cash,Discharged
+P1293,Patient_293,24,Female,Emergency,Accident Injury,Dr. Smith,Referral,2024-07-26,2024-07-29,3147.71,Insurance,Admitted
+P1294,Patient_294,1,Male,General Medicine,Diabetes,Dr. Williams,Referral,2024-08-07,2024-08-14,4081.9,Insurance,Transferred
+P1295,Patient_295,47,Female,Cardiology,Hypertension,Dr. Brown,Emergency,2024-10-01,2024-10-04,1459.3,Cash,Transferred
+P1296,Patient_296,50,Female,Oncology,Leukemia,Dr. Smith,Routine,2024-06-09,2024-06-19,1889.53,Cash,Transferred
+P1297,Patient_297,79,Male,Orthopedics,Back Pain,Dr. Johnson,Routine,2024-12-10,2024-12-15,765.74,Cash,Discharged
+P1298,Patient_298,66,Female,Orthopedics,Arthritis,Dr. Jones,Emergency,2024-07-10,2024-07-13,2959.07,Cash,Discharged
+P1299,Patient_299,89,Male,Pediatrics,Infection,Dr. Johnson,Routine,2024-11-21,2024-11-30,1586.41,Insurance,Admitted
+P1300,Patient_300,7,Female,Emergency,Trauma,Dr. Brown,Emergency,2024-08-18,2024-08-28,1136.62,Cash,Transferred
+P1301,Patient_301,53,Female,General Medicine,Flu,Dr. Garcia,Routine,2024-11-30,2024-12-08,2545.76,Insurance,Transferred
+P1302,Patient_302,5,Female,Cardiology,Hypertension,Dr. Jones,Routine,2024-04-22,2024-04-27,1007.4,Cash,Transferred
+P1303,Patient_303,66,Male,Oncology,Leukemia,Dr. Smith,Routine,2024-09-10,2024-09-19,3920.54,Cash,Transferred
+P1304,Patient_304,70,Male,Emergency,Accident Injury,Dr. Smith,Referral,2024-01-22,2024-01-30,4184.34,Insurance,Admitted
+P1305,Patient_305,34,Female,Emergency,Trauma,Dr. Brown,Emergency,2024-01-17,2024-01-25,3923.03,Insurance,Discharged
+P1306,Patient_306,79,Female,Emergency,Trauma,Dr. Jones,Emergency,2024-10-28,2024-11-03,3967.28,Insurance,Discharged
+P1307,Patient_307,36,Male,General Medicine,Flu,Dr. Garcia,Routine,2024-06-28,2024-07-07,1588.8,Cash,Transferred
+P1308,Patient_308,53,Male,Oncology,Tumor,Dr. Garcia,Emergency,2024-02-18,2024-02-21,3566.85,Insurance,Discharged
+P1309,Patient_309,32,Female,Orthopedics,Arthritis,Dr. Johnson,Referral,2024-12-30,2025-01-05,3235.53,Card,Admitted
+P1310,Patient_310,82,Male,Pediatrics,Asthma,Dr. Jones,Referral,2024-08-19,2024-08-21,1535.48,Cash,Admitted
+P1311,Patient_311,1,Male,Pediatrics,Infection,Dr. Brown,Referral,2024-06-16,2024-06-26,3387.89,Cash,Discharged
+P1312,Patient_312,28,Female,Emergency,Trauma,Dr. Brown,Routine,2024-09-30,2024-10-07,1749.75,Cash,Admitted
+P1313,Patient_313,73,Female,General Medicine,Flu,Dr. Garcia,Emergency,2024-10-22,2024-10-25,420.53,Card,Admitted
+P1314,Patient_314,57,Female,Cardiology,Hypertension,Dr. Brown,Emergency,2024-03-04,2024-03-07,4979.33,Insurance,Transferred
+P1315,Patient_315,12,Female,Neurology,Stroke,Dr. Smith,Routine,2024-03-22,2024-03-27,3389.64,Card,Discharged
+P1316,Patient_316,90,Male,Cardiology,Arrhythmia,Dr. Garcia,Emergency,2024-07-21,2024-07-26,3577.75,Insurance,Discharged
+P1317,Patient_317,76,Male,Pediatrics,Infection,Dr. Garcia,Routine,2024-02-09,2024-02-12,244.58,Card,Admitted
+P1318,Patient_318,89,Male,Emergency,Accident Injury,Dr. Smith,Emergency,2024-03-02,2024-03-09,2038.74,Card,Discharged
+P1319,Patient_319,39,Male,Cardiology,Arrhythmia,Dr. Johnson,Referral,2024-06-09,2024-06-15,4966.11,Insurance,Discharged
+P1320,Patient_320,79,Male,General Medicine,Flu,Dr. Williams,Referral,2024-10-15,2024-10-16,1222.67,Card,Discharged
+P1321,Patient_321,28,Male,Pediatrics,Flu,Dr. Johnson,Emergency,2024-11-11,2024-11-19,3029.95,Cash,Admitted
+P1322,Patient_322,32,Female,Pediatrics,Infection,Dr. Smith,Emergency,2024-06-10,2024-06-13,2856.3,Card,Transferred
+P1323,Patient_323,85,Female,General Medicine,Diabetes,Dr. Jones,Referral,2024-05-25,2024-05-26,2645.71,Card,Admitted
+P1324,Patient_324,31,Female,Neurology,Stroke,Dr. Smith,Emergency,2024-11-26,2024-11-27,2598.0,Card,Discharged
+P1325,Patient_325,41,Male,General Medicine,Flu,Dr. Jones,Routine,2024-01-07,2024-01-13,1953.98,Card,Discharged
+P1326,Patient_326,3,Male,Emergency,Trauma,Dr. Williams,Emergency,2024-08-29,2024-08-31,391.17,Insurance,Admitted
+P1327,Patient_327,54,Female,General Medicine,Infection,Dr. Brown,Emergency,2024-05-26,2024-06-04,3274.58,Card,Transferred
+P1328,Patient_328,40,Male,Orthopedics,Back Pain,Dr. Johnson,Emergency,2024-05-22,2024-05-24,2774.67,Cash,Transferred
+P1329,Patient_329,40,Female,Oncology,Leukemia,Dr. Johnson,Emergency,2024-11-28,2024-11-30,1373.5,Cash,Discharged
+P1330,Patient_330,8,Female,Pediatrics,Infection,Dr. Garcia,Referral,2024-11-09,2024-11-19,3755.16,Insurance,Discharged
+P1331,Patient_331,21,Female,Oncology,Tumor,Dr. Jones,Referral,2024-03-11,2024-03-12,3958.34,Card,Admitted
+P1332,Patient_332,35,Male,Orthopedics,Fracture,Dr. Williams,Routine,2024-07-09,2024-07-12,1505.51,Insurance,Admitted
+P1333,Patient_333,64,Female,Oncology,Leukemia,Dr. Williams,Emergency,2024-10-22,2024-10-24,2598.13,Card,Discharged
+P1334,Patient_334,14,Male,Neurology,Migraine,Dr. Garcia,Referral,2024-03-21,2024-03-26,212.33,Insurance,Discharged
+P1335,Patient_335,50,Male,Cardiology,Hypertension,Dr. Smith,Referral,2024-08-29,2024-09-04,4054.95,Card,Transferred
+P1336,Patient_336,42,Male,Oncology,Tumor,Dr. Garcia,Routine,2024-08-02,2024-08-06,1502.04,Insurance,Transferred
+P1337,Patient_337,87,Male,Neurology,Migraine,Dr. Johnson,Referral,2024-03-02,2024-03-11,4910.79,Cash,Discharged
+P1338,Patient_338,42,Male,Pediatrics,Infection,Dr. Brown,Emergency,2024-05-24,2024-05-29,1970.81,Cash,Transferred
+P1339,Patient_339,32,Female,Emergency,Accident Injury,Dr. Jones,Routine,2024-06-04,2024-06-14,4989.38,Insurance,Transferred
+P1340,Patient_340,1,Female,General Medicine,Diabetes,Dr. Johnson,Referral,2024-05-05,2024-05-08,1862.83,Card,Discharged
+P1341,Patient_341,40,Male,Neurology,Migraine,Dr. Jones,Emergency,2024-01-01,2024-01-08,2215.12,Insurance,Discharged
+P1342,Patient_342,6,Male,Oncology,Leukemia,Dr. Brown,Referral,2024-05-23,2024-05-25,4498.77,Cash,Transferred
+P1343,Patient_343,65,Male,Cardiology,Heart Failure,Dr. Brown,Emergency,2024-10-24,2024-10-26,3041.1,Insurance,Admitted
+P1344,Patient_344,38,Female,Oncology,Tumor,Dr. Brown,Referral,2024-03-07,2024-03-11,4193.12,Cash,Admitted
+P1345,Patient_345,10,Male,Pediatrics,Flu,Dr. Jones,Emergency,2024-05-19,2024-05-23,945.97,Insurance,Admitted
+P1346,Patient_346,16,Female,Pediatrics,Flu,Dr. Brown,Routine,2024-06-09,2024-06-16,2424.06,Insurance,Discharged
+P1347,Patient_347,90,Male,Orthopedics,Fracture,Dr. Williams,Emergency,2024-12-17,2024-12-22,637.82,Insurance,Admitted
+P1348,Patient_348,87,Female,Pediatrics,Asthma,Dr. Johnson,Emergency,2024-09-19,2024-09-20,4770.06,Cash,Transferred
+P1349,Patient_349,13,Female,Oncology,Cancer,Dr. Johnson,Emergency,2024-10-08,2024-10-12,257.39,Insurance,Discharged
+P1350,Patient_350,88,Male,Orthopedics,Back Pain,Dr. Jones,Routine,2024-07-24,2024-07-30,4603.66,Insurance,Discharged
+P1351,Patient_351,17,Male,Cardiology,Arrhythmia,Dr. Smith,Emergency,2024-04-11,2024-04-19,4722.95,Insurance,Discharged
+P1352,Patient_352,64,Male,General Medicine,Flu,Dr. Garcia,Routine,2024-08-09,2024-08-16,1029.47,Insurance,Discharged
+P1353,Patient_353,20,Male,Neurology,Epilepsy,Dr. Jones,Referral,2024-05-23,2024-05-31,1379.77,Cash,Admitted
+P1354,Patient_354,8,Male,Pediatrics,Asthma,Dr. Brown,Emergency,2024-10-08,2024-10-16,2212.33,Card,Transferred
+P1355,Patient_355,3,Female,Orthopedics,Back Pain,Dr. Williams,Routine,2024-11-18,2024-11-27,2813.69,Cash,Admitted
+P1356,Patient_356,50,Female,General Medicine,Diabetes,Dr. Smith,Routine,2024-09-14,2024-09-20,3066.16,Insurance,Admitted
+P1357,Patient_357,46,Male,Cardiology,Hypertension,Dr. Smith,Emergency,2024-08-29,2024-09-07,3352.95,Cash,Transferred
+P1358,Patient_358,74,Female,Emergency,Accident Injury,Dr. Johnson,Emergency,2024-01-29,2024-02-02,1335.45,Cash,Transferred
+P1359,Patient_359,4,Female,Oncology,Leukemia,Dr. Jones,Emergency,2024-07-02,2024-07-12,2902.92,Insurance,Admitted
+P1360,Patient_360,63,Male,General Medicine,Diabetes,Dr. Smith,Emergency,2024-06-07,2024-06-10,3087.98,Insurance,Transferred
+P1361,Patient_361,79,Male,Pediatrics,Flu,Dr. Williams,Referral,2024-01-01,2024-01-07,1051.81,Cash,Discharged
+P1362,Patient_362,19,Male,Cardiology,Heart Failure,Dr. Williams,Emergency,2024-03-16,2024-03-26,1993.24,Card,Admitted
+P1363,Patient_363,39,Female,General Medicine,Diabetes,Dr. Johnson,Referral,2024-02-21,2024-02-27,4753.73,Card,Admitted
+P1364,Patient_364,72,Female,Oncology,Cancer,Dr. Garcia,Referral,2024-06-11,2024-06-14,4109.38,Cash,Admitted
+P1365,Patient_365,17,Male,Oncology,Leukemia,Dr. Smith,Referral,2024-12-18,2024-12-23,4753.75,Cash,Transferred
+P1366,Patient_366,41,Male,Cardiology,Heart Failure,Dr. Jones,Emergency,2024-04-03,2024-04-13,4696.1,Insurance,Admitted
+P1367,Patient_367,45,Female,Oncology,Cancer,Dr. Garcia,Emergency,2024-02-09,2024-02-13,4143.98,Card,Transferred
+P1368,Patient_368,2,Female,Oncology,Cancer,Dr. Johnson,Referral,2024-06-20,2024-06-28,525.41,Cash,Discharged
+P1369,Patient_369,50,Female,Oncology,Leukemia,Dr. Brown,Emergency,2024-01-01,2024-01-02,4445.85,Cash,Admitted
+P1370,Patient_370,13,Female,Neurology,Epilepsy,Dr. Garcia,Referral,2024-10-06,2024-10-13,1282.8,Cash,Discharged
+P1371,Patient_371,3,Female,Emergency,Accident Injury,Dr. Smith,Emergency,2024-01-18,2024-01-23,1840.68,Cash,Discharged
+P1372,Patient_372,12,Female,Oncology,Leukemia,Dr. Jones,Routine,2024-02-08,2024-02-17,3581.62,Cash,Transferred
+P1373,Patient_373,21,Male,Orthopedics,Fracture,Dr. Williams,Emergency,2024-11-06,2024-11-13,4877.11,Cash,Transferred
+P1374,Patient_374,85,Female,General Medicine,Flu,Dr. Johnson,Emergency,2024-10-03,2024-10-08,438.25,Card,Transferred
+P1375,Patient_375,7,Female,Emergency,Trauma,Dr. Brown,Emergency,2024-09-08,2024-09-11,1613.84,Card,Transferred
+P1376,Patient_376,13,Male,General Medicine,Diabetes,Dr. Johnson,Referral,2024-09-02,2024-09-06,1600.7,Insurance,Admitted
+P1377,Patient_377,51,Female,Emergency,Accident Injury,Dr. Garcia,Routine,2024-02-29,2024-03-05,637.46,Card,Admitted
+P1378,Patient_378,48,Male,Orthopedics,Arthritis,Dr. Smith,Routine,2024-07-08,2024-07-15,2310.75,Cash,Discharged
+P1379,Patient_379,8,Male,Emergency,Severe Infection,Dr. Garcia,Emergency,2024-05-17,2024-05-27,611.4,Cash,Transferred
+P1380,Patient_380,71,Male,Pediatrics,Asthma,Dr. Jones,Routine,2024-10-28,2024-11-01,4835.01,Card,Admitted
+P1381,Patient_381,39,Male,General Medicine,Flu,Dr. Garcia,Emergency,2024-04-30,2024-05-08,2610.09,Card,Transferred
+P1382,Patient_382,16,Female,Oncology,Cancer,Dr. Johnson,Emergency,2024-11-13,2024-11-16,4080.61,Insurance,Discharged
+P1383,Patient_383,26,Male,Pediatrics,Infection,Dr. Williams,Routine,2024-02-10,2024-02-17,4571.86,Insurance,Discharged
+P1384,Patient_384,71,Female,Pediatrics,Asthma,Dr. Jones,Routine,2024-10-11,2024-10-18,4602.38,Insurance,Transferred
+P1385,Patient_385,54,Male,General Medicine,Flu,Dr. Johnson,Emergency,2024-10-27,2024-11-05,2919.65,Card,Discharged
+P1386,Patient_386,37,Female,Cardiology,Arrhythmia,Dr. Williams,Routine,2024-10-15,2024-10-17,3342.98,Card,Transferred
+P1387,Patient_387,36,Female,Pediatrics,Flu,Dr. Jones,Referral,2024-01-20,2024-01-23,3467.9,Cash,Discharged
+P1388,Patient_388,7,Female,Pediatrics,Asthma,Dr. Williams,Emergency,2024-06-18,2024-06-22,1821.76,Cash,Admitted
+P1389,Patient_389,30,Male,Neurology,Stroke,Dr. Garcia,Routine,2024-09-08,2024-09-10,3915.35,Cash,Admitted
+P1390,Patient_390,83,Male,Oncology,Cancer,Dr. Brown,Emergency,2024-08-01,2024-08-11,4584.48,Cash,Transferred
+P1391,Patient_391,8,Male,Pediatrics,Flu,Dr. Williams,Referral,2024-09-21,2024-09-27,2632.62,Insurance,Transferred
+P1392,Patient_392,25,Male,General Medicine,Diabetes,Dr. Johnson,Emergency,2024-01-15,2024-01-18,2390.95,Cash,Transferred
+P1393,Patient_393,60,Female,Orthopedics,Back Pain,Dr. Smith,Referral,2024-05-20,2024-05-26,346.7,Cash,Admitted
+P1394,Patient_394,61,Female,General Medicine,Flu,Dr. Johnson,Routine,2024-08-16,2024-08-19,3795.01,Card,Discharged
+P1395,Patient_395,7,Male,Neurology,Epilepsy,Dr. Johnson,Emergency,2024-01-15,2024-01-22,3307.42,Card,Discharged
+P1396,Patient_396,66,Male,Neurology,Epilepsy,Dr. Smith,Routine,2024-11-29,2024-12-06,4575.27,Card,Discharged
+P1397,Patient_397,33,Female,General Medicine,Infection,Dr. Garcia,Referral,2024-01-05,2024-01-09,1521.82,Cash,Admitted
+P1398,Patient_398,60,Female,Pediatrics,Infection,Dr. Jones,Referral,2024-05-09,2024-05-13,2106.33,Insurance,Discharged
+P1399,Patient_399,72,Female,General Medicine,Flu,Dr. Garcia,Emergency,2024-12-05,2024-12-11,2512.34,Cash,Admitted
+P1400,Patient_400,34,Female,Oncology,Cancer,Dr. Johnson,Referral,2024-06-15,2024-06-20,3874.28,Insurance,Transferred
+P1401,Patient_401,88,Male,Pediatrics,Infection,Dr. Smith,Referral,2024-12-04,2024-12-10,2587.39,Cash,Admitted
+P1402,Patient_402,5,Male,Pediatrics,Asthma,Dr. Garcia,Referral,2024-07-26,2024-08-02,1267.34,Card,Transferred
+P1403,Patient_403,65,Female,Emergency,Trauma,Dr. Garcia,Referral,2024-08-31,2024-09-06,1069.45,Insurance,Admitted
+P1404,Patient_404,24,Female,Orthopedics,Back Pain,Dr. Smith,Emergency,2024-05-12,2024-05-21,1905.36,Card,Admitted
+P1405,Patient_405,34,Female,Pediatrics,Asthma,Dr. Smith,Routine,2024-06-18,2024-06-24,457.65,Card,Transferred
+P1406,Patient_406,61,Male,General Medicine,Infection,Dr. Smith,Referral,2024-11-13,2024-11-15,2032.01,Cash,Admitted
+P1407,Patient_407,26,Female,Cardiology,Arrhythmia,Dr. Jones,Routine,2024-03-18,2024-03-21,887.48,Card,Discharged
+P1408,Patient_408,43,Male,Emergency,Accident Injury,Dr. Garcia,Emergency,2024-02-11,2024-02-19,222.62,Cash,Discharged
+P1409,Patient_409,21,Female,Emergency,Trauma,Dr. Johnson,Referral,2024-03-27,2024-04-06,2281.81,Cash,Admitted
+P1410,Patient_410,1,Male,Pediatrics,Infection,Dr. Johnson,Referral,2024-09-01,2024-09-08,1990.89,Insurance,Admitted
+P1411,Patient_411,3,Male,Emergency,Severe Infection,Dr. Garcia,Emergency,2024-09-28,2024-10-02,1286.08,Cash,Admitted
+P1412,Patient_412,65,Female,Orthopedics,Fracture,Dr. Smith,Emergency,2024-02-22,2024-02-29,1631.37,Cash,Admitted
+P1413,Patient_413,68,Female,Oncology,Tumor,Dr. Garcia,Emergency,2024-09-23,2024-10-03,1845.12,Cash,Admitted
+P1414,Patient_414,52,Male,Emergency,Trauma,Dr. Johnson,Referral,2024-04-06,2024-04-09,4927.42,Insurance,Transferred
+P1415,Patient_415,22,Male,Cardiology,Arrhythmia,Dr. Garcia,Referral,2024-10-28,2024-11-06,4002.21,Cash,Transferred
+P1416,Patient_416,7,Male,Neurology,Epilepsy,Dr. Smith,Referral,2024-09-30,2024-10-10,4213.38,Insurance,Transferred
+P1417,Patient_417,49,Male,Cardiology,Heart Failure,Dr. Williams,Routine,2024-08-01,2024-08-09,3568.97,Insurance,Transferred
+P1418,Patient_418,39,Female,Oncology,Leukemia,Dr. Smith,Referral,2024-11-18,2024-11-19,2697.48,Card,Transferred
+P1419,Patient_419,14,Male,Oncology,Tumor,Dr. Smith,Emergency,2024-03-11,2024-03-18,2589.15,Card,Discharged
+P1420,Patient_420,26,Female,Emergency,Severe Infection,Dr. Brown,Routine,2024-05-14,2024-05-23,969.79,Card,Admitted
+P1421,Patient_421,43,Male,Orthopedics,Fracture,Dr. Smith,Referral,2024-12-18,2024-12-26,627.21,Insurance,Transferred
+P1422,Patient_422,12,Male,Oncology,Leukemia,Dr. Garcia,Emergency,2024-09-09,2024-09-12,4542.94,Card,Discharged
+P1423,Patient_423,60,Male,Pediatrics,Flu,Dr. Johnson,Emergency,2024-05-31,2024-06-05,4290.79,Cash,Transferred
+P1424,Patient_424,13,Male,Neurology,Migraine,Dr. Johnson,Referral,2024-08-06,2024-08-08,3306.55,Cash,Admitted
+P1425,Patient_425,12,Female,Pediatrics,Asthma,Dr. Johnson,Emergency,2024-11-14,2024-11-19,2123.73,Cash,Admitted
+P1426,Patient_426,54,Male,Emergency,Trauma,Dr. Johnson,Referral,2024-07-16,2024-07-24,3686.77,Insurance,Discharged
+P1427,Patient_427,73,Female,Pediatrics,Flu,Dr. Jones,Routine,2024-10-29,2024-11-06,3939.99,Card,Discharged
+P1428,Patient_428,62,Female,Emergency,Trauma,Dr. Brown,Routine,2024-12-16,2024-12-19,420.67,Cash,Transferred
+P1429,Patient_429,74,Male,Neurology,Epilepsy,Dr. Williams,Referral,2024-01-07,2024-01-16,2710.9,Card,Transferred
+P1430,Patient_430,62,Female,Cardiology,Heart Failure,Dr. Garcia,Referral,2024-08-09,2024-08-13,2047.41,Card,Transferred
+P1431,Patient_431,65,Female,Cardiology,Arrhythmia,Dr. Johnson,Emergency,2024-01-06,2024-01-09,3806.86,Cash,Discharged
+P1432,Patient_432,65,Male,Neurology,Epilepsy,Dr. Garcia,Routine,2024-05-22,2024-05-23,2135.73,Insurance,Discharged
+P1433,Patient_433,58,Male,Pediatrics,Asthma,Dr. Brown,Routine,2024-08-15,2024-08-25,769.79,Cash,Transferred
+P1434,Patient_434,52,Female,Oncology,Cancer,Dr. Jones,Referral,2024-01-10,2024-01-12,200.81,Insurance,Transferred
+P1435,Patient_435,66,Male,General Medicine,Infection,Dr. Garcia,Routine,2024-11-22,2024-11-27,4761.7,Cash,Discharged
+P1436,Patient_436,43,Female,Emergency,Severe Infection,Dr. Garcia,Routine,2024-04-24,2024-05-02,3636.38,Insurance,Discharged
+P1437,Patient_437,1,Female,Emergency,Accident Injury,Dr. Garcia,Routine,2024-12-03,2024-12-07,2828.91,Cash,Transferred
+P1438,Patient_438,64,Male,Cardiology,Heart Failure,Dr. Garcia,Referral,2024-01-24,2024-01-27,2164.21,Cash,Transferred
+P1439,Patient_439,51,Male,Orthopedics,Arthritis,Dr. Johnson,Referral,2024-04-06,2024-04-08,1822.08,Cash,Discharged
+P1440,Patient_440,16,Female,Oncology,Tumor,Dr. Garcia,Referral,2024-12-10,2024-12-20,4789.71,Insurance,Admitted
+P1441,Patient_441,71,Female,Cardiology,Heart Failure,Dr. Brown,Referral,2024-09-28,2024-09-29,3949.19,Insurance,Transferred
+P1442,Patient_442,14,Female,General Medicine,Infection,Dr. Jones,Referral,2024-03-29,2024-04-01,4436.94,Card,Admitted
+P1443,Patient_443,36,Female,Pediatrics,Asthma,Dr. Williams,Routine,2024-11-07,2024-11-11,4063.02,Insurance,Admitted
+P1444,Patient_444,39,Female,General Medicine,Infection,Dr. Garcia,Referral,2024-12-24,2025-01-02,3236.4,Insurance,Discharged
+P1445,Patient_445,88,Female,General Medicine,Infection,Dr. Johnson,Referral,2024-12-31,2025-01-05,3320.41,Insurance,Transferred
+P1446,Patient_446,15,Female,General Medicine,Infection,Dr. Brown,Referral,2024-12-21,2024-12-27,2939.06,Card,Transferred
+P1447,Patient_447,37,Female,Pediatrics,Flu,Dr. Jones,Emergency,2024-12-11,2024-12-20,321.31,Insurance,Discharged
+P1448,Patient_448,35,Male,Oncology,Tumor,Dr. Garcia,Routine,2024-01-29,2024-02-02,902.86,Insurance,Transferred
+P1449,Patient_449,70,Male,Emergency,Accident Injury,Dr. Brown,Emergency,2024-05-31,2024-06-04,3157.32,Card,Transferred
+P1450,Patient_450,50,Male,General Medicine,Infection,Dr. Garcia,Routine,2024-04-24,2024-05-03,3526.09,Insurance,Admitted
+P1451,Patient_451,71,Male,Pediatrics,Flu,Dr. Garcia,Routine,2024-08-01,2024-08-07,1174.82,Cash,Discharged
+P1452,Patient_452,76,Male,Oncology,Leukemia,Dr. Johnson,Routine,2024-12-26,2025-01-01,2354.31,Card,Discharged
+P1453,Patient_453,16,Female,Orthopedics,Fracture,Dr. Brown,Routine,2024-03-29,2024-04-07,2871.67,Insurance,Discharged
+P1454,Patient_454,43,Female,General Medicine,Infection,Dr. Johnson,Emergency,2024-05-10,2024-05-11,937.78,Cash,Transferred
+P1455,Patient_455,85,Female,Cardiology,Arrhythmia,Dr. Jones,Referral,2024-11-16,2024-11-26,1918.81,Card,Admitted
+P1456,Patient_456,67,Male,General Medicine,Infection,Dr. Johnson,Routine,2024-04-22,2024-04-25,2806.78,Cash,Discharged
+P1457,Patient_457,85,Female,Neurology,Stroke,Dr. Williams,Routine,2024-04-23,2024-04-27,1248.54,Card,Transferred
+P1458,Patient_458,15,Female,Pediatrics,Asthma,Dr. Johnson,Referral,2024-10-14,2024-10-15,3145.77,Card,Discharged
+P1459,Patient_459,49,Male,Cardiology,Arrhythmia,Dr. Williams,Referral,2024-12-15,2024-12-21,3675.08,Insurance,Transferred
+P1460,Patient_460,66,Female,Emergency,Accident Injury,Dr. Smith,Routine,2024-07-10,2024-07-19,4511.75,Insurance,Admitted
+P1461,Patient_461,22,Male,General Medicine,Infection,Dr. Smith,Emergency,2024-02-12,2024-02-14,3417.61,Insurance,Transferred
+P1462,Patient_462,69,Female,Pediatrics,Infection,Dr. Smith,Referral,2024-02-23,2024-02-27,3493.01,Insurance,Admitted
+P1463,Patient_463,12,Male,Oncology,Cancer,Dr. Johnson,Routine,2024-06-18,2024-06-19,2878.8,Card,Discharged
+P1464,Patient_464,58,Female,Neurology,Stroke,Dr. Williams,Emergency,2024-07-27,2024-08-03,2069.61,Insurance,Transferred
+P1465,Patient_465,9,Male,Cardiology,Heart Failure,Dr. Smith,Routine,2024-11-24,2024-12-04,4654.63,Insurance,Admitted
+P1466,Patient_466,78,Male,Emergency,Accident Injury,Dr. Brown,Routine,2024-12-17,2024-12-22,2096.54,Card,Discharged
+P1467,Patient_467,29,Male,Pediatrics,Infection,Dr. Brown,Referral,2024-03-21,2024-03-30,1615.9,Card,Discharged
+P1468,Patient_468,2,Male,Neurology,Migraine,Dr. Smith,Emergency,2024-12-12,2024-12-18,2949.05,Cash,Transferred
+P1469,Patient_469,27,Female,General Medicine,Diabetes,Dr. Brown,Referral,2024-02-13,2024-02-18,4287.0,Insurance,Discharged
+P1470,Patient_470,33,Male,Orthopedics,Fracture,Dr. Johnson,Referral,2024-04-23,2024-05-03,4038.37,Insurance,Transferred
+P1471,Patient_471,10,Female,Pediatrics,Infection,Dr. Smith,Routine,2024-11-26,2024-12-05,671.37,Card,Transferred
+P1472,Patient_472,17,Male,Pediatrics,Flu,Dr. Williams,Referral,2024-06-18,2024-06-24,535.08,Insurance,Admitted
+P1473,Patient_473,79,Female,Pediatrics,Infection,Dr. Jones,Emergency,2024-08-18,2024-08-24,2914.65,Cash,Admitted
+P1474,Patient_474,41,Male,Pediatrics,Flu,Dr. Garcia,Referral,2024-03-27,2024-03-28,3276.03,Cash,Admitted
+P1475,Patient_475,62,Female,Orthopedics,Arthritis,Dr. Williams,Routine,2024-12-13,2024-12-19,2537.46,Insurance,Discharged
+P1476,Patient_476,36,Male,Oncology,Leukemia,Dr. Johnson,Routine,2024-11-06,2024-11-08,3721.01,Card,Discharged
+P1477,Patient_477,65,Male,Oncology,Leukemia,Dr. Jones,Routine,2024-02-08,2024-02-09,3892.16,Insurance,Discharged
+P1478,Patient_478,70,Female,General Medicine,Infection,Dr. Johnson,Routine,2024-05-13,2024-05-22,2083.99,Card,Transferred
+P1479,Patient_479,60,Male,Emergency,Accident Injury,Dr. Williams,Referral,2024-05-28,2024-05-31,250.84,Insurance,Transferred
+P1480,Patient_480,18,Female,Oncology,Cancer,Dr. Johnson,Referral,2024-03-25,2024-04-03,4753.82,Card,Discharged
+P1481,Patient_481,6,Male,Oncology,Tumor,Dr. Johnson,Emergency,2024-09-04,2024-09-10,1468.91,Insurance,Discharged
+P1482,Patient_482,47,Female,Oncology,Tumor,Dr. Brown,Emergency,2024-04-15,2024-04-24,391.54,Card,Admitted
+P1483,Patient_483,82,Female,Cardiology,Heart Failure,Dr. Williams,Referral,2024-12-26,2025-01-04,2812.88,Insurance,Admitted
+P1484,Patient_484,76,Male,Oncology,Leukemia,Dr. Williams,Routine,2024-07-12,2024-07-18,4868.84,Insurance,Transferred
+P1485,Patient_485,63,Female,Pediatrics,Infection,Dr. Smith,Referral,2024-06-29,2024-07-05,4433.76,Cash,Discharged
+P1486,Patient_486,83,Female,Orthopedics,Fracture,Dr. Johnson,Emergency,2024-02-09,2024-02-18,955.32,Card,Transferred
+P1487,Patient_487,54,Female,Emergency,Severe Infection,Dr. Smith,Routine,2024-03-01,2024-03-05,3441.1,Cash,Discharged
+P1488,Patient_488,3,Male,General Medicine,Diabetes,Dr. Johnson,Referral,2024-03-23,2024-03-30,3043.27,Insurance,Transferred
+P1489,Patient_489,19,Male,General Medicine,Diabetes,Dr. Williams,Emergency,2024-01-21,2024-01-31,2679.88,Cash,Transferred
+P1490,Patient_490,85,Female,General Medicine,Diabetes,Dr. Johnson,Routine,2024-11-22,2024-11-23,3111.32,Cash,Admitted
+P1491,Patient_491,77,Male,Orthopedics,Back Pain,Dr. Johnson,Referral,2024-04-22,2024-04-29,3366.31,Cash,Discharged
+P1492,Patient_492,59,Male,Oncology,Cancer,Dr. Brown,Routine,2024-12-17,2024-12-23,834.62,Insurance,Discharged
+P1493,Patient_493,20,Male,General Medicine,Diabetes,Dr. Brown,Referral,2024-09-15,2024-09-22,3079.11,Card,Transferred
+P1494,Patient_494,62,Male,Emergency,Severe Infection,Dr. Jones,Emergency,2024-03-01,2024-03-03,4505.45,Card,Transferred
+P1495,Patient_495,48,Male,Pediatrics,Infection,Dr. Jones,Routine,2024-09-24,2024-10-01,1301.53,Cash,Admitted
+P1496,Patient_496,13,Female,Neurology,Migraine,Dr. Williams,Routine,2024-10-28,2024-11-07,3876.12,Insurance,Admitted
+P1497,Patient_497,33,Male,General Medicine,Diabetes,Dr. Garcia,Referral,2024-10-05,2024-10-12,3989.23,Card,Transferred
+P1498,Patient_498,49,Male,Cardiology,Heart Failure,Dr. Williams,Routine,2024-09-23,2024-09-24,1938.89,Insurance,Admitted
+P1499,Patient_499,34,Female,Oncology,Leukemia,Dr. Williams,Referral,2024-10-26,2024-10-31,1522.69,Card,Admitted
