@@ -1,10 +1,10 @@
-# 🏥 Hospital Patient Management — Data Analysis Portfolio Project
+#  Hospital Patient Management — Data Analysis Portfolio Project
 
 A end-to-end data analysis project built with **MySQL** and **Power BI**, exploring a hospital patient management dataset of 500 records across 7 departments and 12 months of 2024.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyses hospital patient data to uncover operational and clinical insights across five key problem areas — length of stay, treatment costs, patient outcomes, doctor workload, and admission trends. The final deliverable is a single-page interactive Power BI dashboard connected to a cleaned and engineered MySQL database.
 
@@ -17,7 +17,7 @@ The project demonstrates skills in:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 | Field | Type | Description |
 |---|---|---|
@@ -39,18 +39,17 @@ The project demonstrates skills in:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
-| **MySQL 8.0** | Database setup, data cleaning, feature engineering, analytical queries |
-| **MySQL Workbench** | Query execution and database management |
+| **MySQL ** | Database setup, data cleaning, feature engineering, analytical queries |
 | **Power BI Desktop** | Data modelling, DAX measures, dashboard design |
-| **MySQL Connector/ODBC** | Live connection between MySQL and Power BI |
+
 
 ---
 
-## ❓ Problem Statements
+##  Problem Statements
 
 ### Problem 1 — Length of Stay Analysis
 > Which departments and admission types are associated with the longest average length of stay, and what clinical factors drive these differences?
@@ -87,7 +86,7 @@ Analyses monthly admission volumes across 2024 using window functions for runnin
 
 ---
 
-## 📊 Dashboard Screenshots
+##  Dashboard Screenshots
 
 > *Screenshots will be added once the Power BI dashboard is published.*
 
@@ -102,7 +101,7 @@ To add your own screenshots:
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 ### 1. Set up the MySQL database
 ```sql
@@ -124,7 +123,7 @@ Open `Hospital_Dashboard.pbix` in Power BI Desktop. All measures and visuals are
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 hospital-patient-analysis/
@@ -149,14 +148,8 @@ hospital-patient-analysis/
 │   └── dashboard.png
 │
 └── README.md
-```
 
----
 
-## 👤 Author
 
-Built as a portfolio project to demonstrate end-to-end data analysis skills using SQL and Power BI.
-
----
 
 *Dataset contains anonymised synthetic patient data for educational purposes only.*
